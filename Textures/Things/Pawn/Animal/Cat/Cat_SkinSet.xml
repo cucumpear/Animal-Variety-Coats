@@ -47,7 +47,7 @@
       </skin> 
       <skin>
         <color>(250,250,250)</color>
-        <commonality>0.1</commonality>
+        <commonality>0.05</commonality>
         <texName>Cat</texName>
       </skin> 	  
     </variants>  

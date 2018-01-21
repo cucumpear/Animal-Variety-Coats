@@ -11,20 +11,25 @@
         <texName>Warg</texName>
       </skin>
       <skin>
-        <color>(161,118,85)</color>
+        <color>(145,119,97)</color>
         <commonality>0.2</commonality>
         <texName>Warg</texName>
       </skin>
       <skin>
-        <color>(110,83,63)</color>
+        <color>(148,134,123)</color>
         <commonality>0.2</commonality>
         <texName>Warg</texName>
       </skin>
       <skin>
-        <color>(93,83,74)</color>
+        <color>(107,92,80)</color>
         <commonality>0.2</commonality>
         <texName>Warg</texName>
-      </skin>      
+      </skin>   
+      <skin>
+        <color>(84,81,80)</color>
+        <commonality>0.2</commonality>
+        <texName>Warg</texName>
+      </skin> 	  
     </variants>  
 	
     <winterCoat>

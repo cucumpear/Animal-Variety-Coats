@@ -6,21 +6,21 @@
     <appliesToAll>true</appliesToAll>
     <variants>
       <skin>
-        <commonality>0.4</commonality>
+        <commonality>0.6</commonality>
         <texName>Muffalo</texName>
       </skin>
       <skin>
-        <color>(201,206,209)</color>
+        <color>(199,209,204)</color>
         <commonality>0.2</commonality>
         <texName>Muffalo</texName>
       </skin>
       <skin>
-        <color>(165,170,173)</color>
+        <color>(197,217,208)</color>
         <commonality>0.2</commonality>
         <texName>Muffalo</texName>
       </skin>
       <skin>
-        <color>(120,125,128)</color>
+        <color>(179,189,184)</color>
         <commonality>0.2</commonality>
         <texName>Muffalo</texName>
       </skin>      
