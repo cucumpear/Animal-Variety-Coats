@@ -7,33 +7,33 @@
     <variants>
       <skin>
         <color>(180,148,109)</color>
-        <commonality>0.4</commonality>
-        <texName>Alpaca</texName>
+        <commonality>1</commonality>
+        <texName>AlpacaW</texName>
       </skin>
       <skin>
         <color>(196,170,137)</color>
-        <commonality>0.2</commonality>
-        <texName>Alpaca</texName>
+        <commonality>0.5</commonality>
+        <texName>AlpacaW</texName>
       </skin>
       <skin>
         <color>(161,137,109)</color>
-        <commonality>0.2</commonality>
-        <texName>Alpaca</texName>
+        <commonality>0.5</commonality>
+        <texName>AlpacaW</texName>
       </skin>
       <skin>
         <color>(173,134,87)</color>
-        <commonality>0.2</commonality>
-        <texName>Alpaca</texName>
+        <commonality>0.5</commonality>
+        <texName>AlpacaW</texName>
       </skin>
       <skin>
         <color>(209,190,167)</color>
-        <commonality>0.1</commonality>
-        <texName>Alpaca</texName>
+        <commonality>0.3</commonality>
+        <texName>AlpacaW</texName>
       </skin>     
       <skin>
         <color>(222,212,200)</color>
-        <commonality>0.1</commonality>
-        <texName>Alpaca</texName>
+        <commonality>0.3</commonality>
+        <texName>AlpacaW</texName>
       </skin>           
     </variants>  
 	

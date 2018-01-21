@@ -7,23 +7,23 @@
     <variants>
       <skin>
         <color>(220,198,160)</color>
-        <commonality>0.4</commonality>
-        <texName>Labrador</texName>
+        <commonality>1</commonality>
+        <texName>LabradorW</texName>
       </skin>
       <skin>
         <color>(85,85,85)</color>
-        <commonality>0.3</commonality>
-        <texName>Labrador</texName>
+        <commonality>0.6</commonality>
+        <texName>LabradorW</texName>
       </skin>
       <skin>
         <color>(150,117,59)</color>
-        <commonality>0.2</commonality>
-        <texName>Labrador</texName>
+        <commonality>0.5</commonality>
+        <texName>LabradorW</texName>
       </skin>   
       <skin>
         <color>(117,94,54)</color>
-        <commonality>0.1</commonality>
-        <texName>Labrador</texName>
+        <commonality>0.4</commonality>
+        <texName>LabradorW</texName>
       </skin>  	  
     </variants>  
 	

@@ -7,29 +7,29 @@
     <variants>
       <skin>
         <color>(161,95,38)</color>
-        <commonality>0.4</commonality>
-        <texName>Squirrel</texName>
+        <commonality>1</commonality>
+        <texName>SquirrelW</texName>
       </skin>
       <skin>
         <color>(176,120,72)</color>
-        <commonality>0.2</commonality>
-        <texName>Squirrel</texName>
+        <commonality>0.5</commonality>
+        <texName>SquirrelW</texName>
       </skin>
       <skin>
         <color>(143,95,53)</color>
-        <commonality>0.2</commonality>
-        <texName>Squirrel</texName>
+        <commonality>0.5</commonality>
+        <texName>SquirrelW</texName>
       </skin>
       <skin>
         <color>(184,145,112)</color>
-        <commonality>0.2</commonality>
-        <texName>Squirrel</texName>
+        <commonality>0.5</commonality>
+        <texName>SquirrelW</texName>
       </skin>      
     </variants>  
 	
     <winterCoat>
       <useWinterCoat>true</useWinterCoat>
-      <texName>Squirrel</texName>
+      <texName>SquirrelW</texName>
 	  <color>(90,60,45)</color>
     </winterCoat>
   </lifeStage>

@@ -7,23 +7,23 @@
     <variants>
       <skin>
         <color>(130,127,106)</color>
-        <commonality>0.4</commonality>
-        <texName>Hare</texName>
+        <commonality>1</commonality>
+        <texName>HareW</texName>
       </skin>
       <skin>
         <color>(145,124,100)</color>
-        <commonality>0.2</commonality>
-        <texName>Hare</texName>
+        <commonality>0.5</commonality>
+        <texName>HareW</texName>
       </skin>
       <skin>
         <color>(120,109,96)</color>
-        <commonality>0.2</commonality>
-        <texName>Hare</texName>
+        <commonality>0.5</commonality>
+        <texName>HareW</texName>
       </skin>
       <skin>
         <color>(133,116,97)</color>
-        <commonality>0.2</commonality>
-        <texName>Hare</texName>
+        <commonality>0.5</commonality>
+        <texName>HareW</texName>
       </skin>      
     </variants>  
 	

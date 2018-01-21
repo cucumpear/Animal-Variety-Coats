@@ -7,22 +7,22 @@
     <variants>
       <skin>
         <color>(211,190,174)</color>
-        <commonality>0.6</commonality>
+        <commonality>1</commonality>
         <texName>Pig</texName>
       </skin>
       <skin>
         <color>(173,158,146)</color>
-        <commonality>0.2</commonality>
+        <commonality>0.4</commonality>
         <texName>Pig</texName>
       </skin>
       <skin>
         <color>(204,192,184)</color>
-        <commonality>0.2</commonality>
+        <commonality>0.4</commonality>
         <texName>Pig</texName>
       </skin>
       <skin>
         <color>(82,72,65)</color>
-        <commonality>0.2</commonality>
+        <commonality>0.3</commonality>
         <texName>Pig</texName>
       </skin>      
     </variants>  

@@ -7,27 +7,27 @@
     <variants>
       <skin>
         <color>(178,170,158)</color>
-        <commonality>0.4</commonality>
+        <commonality>1</commonality>
         <texName>Chinchilla</texName>
       </skin>
       <skin>
         <color>(201,185,161)</color>
-        <commonality>0.2</commonality>
+        <commonality>0.5</commonality>
         <texName>Chinchilla</texName>
       </skin>
       <skin>
         <color>(179,168,152)</color>
-        <commonality>0.2</commonality>
+        <commonality>0.5</commonality>
         <texName>Chinchilla</texName>
       </skin>
       <skin>
         <color>(207,202,196)</color>
-        <commonality>0.1</commonality>
+        <commonality>0.3</commonality>
         <texName>Chinchilla</texName>
       </skin>   
       <skin>
         <color>(237,234,228)</color>
-        <commonality>0.1</commonality>
+        <commonality>0.3</commonality>
         <texName>Chinchilla</texName>
       </skin>  	  
     </variants>  

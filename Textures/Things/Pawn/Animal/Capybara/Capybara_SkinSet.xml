@@ -7,23 +7,23 @@
     <variants>
       <skin>
         <color>(109,84,49)</color>
-        <commonality>0.4</commonality>
-        <texName>Capybara</texName>
+        <commonality>1</commonality>
+        <texName>CapybaraW</texName>
       </skin>
       <skin>
         <color>(128,104,71)</color>
-        <commonality>0.2</commonality>
-        <texName>Capybara</texName>
+        <commonality>0.5</commonality>
+        <texName>CapybaraW</texName>
       </skin>
       <skin>
         <color>(140,102,49)</color>
-        <commonality>0.2</commonality>
-        <texName>Capybara</texName>
+        <commonality>0.5</commonality>
+        <texName>CapybaraW</texName>
       </skin>
       <skin>
         <color>(166,125,68)</color>
-        <commonality>0.2</commonality>
-        <texName>Capybara</texName>
+        <commonality>0.5</commonality>
+        <texName>CapybaraW</texName>
       </skin>      
     </variants>  
 	
