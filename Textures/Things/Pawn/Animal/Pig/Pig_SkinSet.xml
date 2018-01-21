@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+  <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(211,190,174)</color>
+        <commonality>0.7</commonality>
+        <texName>Pig</texName>
+      </skin>
+      <skin>
+        <color>(235,220,209)</color>
+        <commonality>0.2</commonality>
+        <texName>Pig</texName>
+      </skin>
+      <skin>
+        <color>(245,226,213)</color>
+        <commonality>0.2</commonality>
+        <texName>Pig</texName>
+      </skin>
+      <skin>
+        <color>(82,72,65)</color>
+        <commonality>0.2</commonality>
+        <texName>Pig</texName>
+      </skin>      
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

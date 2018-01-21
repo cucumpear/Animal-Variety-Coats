@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+  <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(130,127,106)</color>
+        <commonality>0.4</commonality>
+        <texName>Hare</texName>
+      </skin>
+      <skin>
+        <color>(212,200,182)</color>
+        <commonality>0.2</commonality>
+        <texName>Hare</texName>
+      </skin>
+      <skin>
+        <color>(130,109,74)</color>
+        <commonality>0.2</commonality>
+        <texName>Hare</texName>
+      </skin>
+      <skin>
+        <color>(94,68,25)</color>
+        <commonality>0.2</commonality>
+        <texName>Hare</texName>
+      </skin>      
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

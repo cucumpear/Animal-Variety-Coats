@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Animal Variety Coats</name>
+  <author>cucumpear</author>
+  <targetVersion>0.18.0</targetVersion>
+  <description>Utilized the assembly from Animal Collab Project to give vanilla animals a bit of variation. The assembly was created by thirite and has been updated by Xen.
+  Note that this will conflict with any mod that overrides these animals' textures.</description>
+</ModMetaData>

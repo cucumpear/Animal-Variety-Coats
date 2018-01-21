@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+   <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(180,148,109)</color>
+        <commonality>0.4</commonality>
+        <texName>Alpaca</texName>
+      </skin>
+      <skin>
+        <color>(237,225,211)</color>
+        <commonality>0.2</commonality>
+        <texName>Alpaca</texName>
+      </skin>
+      <skin>
+        <color>(105,84,59)</color>
+        <commonality>0.2</commonality>
+        <texName>Alpaca</texName>
+      </skin>
+      <skin>
+        <color>(166,137,101)</color>
+        <commonality>0.2</commonality>
+        <texName>Alpaca</texName>
+      </skin>      
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+   <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(189,171,159)</color>
+        <commonality>0.2</commonality>
+        <texName>Cat</texName>
+      </skin>
+      <skin>
+        <color>(219,152,94)</color>
+        <commonality>0.1</commonality>
+        <texName>Cat</texName>
+      </skin>
+      <skin>
+        <color>(40,40,40)</color>
+        <commonality>0.1</commonality>
+        <texName>Cat</texName>
+      </skin>
+      <skin>
+        <color>(170,170,170)</color>
+        <commonality>0.1</commonality>
+        <texName>Cat</texName>
+      </skin>   
+      <skin>
+        <color>(138,97,62)</color>
+        <commonality>0.1</commonality>
+        <texName>Cat</texName>
+      </skin>  	 
+      <skin>
+        <color>(209,185,132)</color>
+        <commonality>0.1</commonality>
+        <texName>Cat</texName>
+      </skin> 
+      <skin>
+        <color>(164,168,186)</color>
+        <commonality>0.1</commonality>
+        <texName>Cat</texName>
+      </skin> 
+      <skin>
+        <color>(237,214,194)</color>
+        <commonality>0.1</commonality>
+        <texName>Cat</texName>
+      </skin> 
+      <skin>
+        <color>(250,250,250)</color>
+        <commonality>0.1</commonality>
+        <texName>Cat</texName>
+      </skin> 	  
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

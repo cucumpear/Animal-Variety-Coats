@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<!--=====================  Pig ========================-->
+
+	<Operation Class="PatchOperationAdd">
+	  <xpath>*/ThingDef[defName = "Pig"]</xpath>
+	  <value>
+		<thingClass>AnimalVariations.AnimalMultiSkins</thingClass>
+	  </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	  <xpath>*/PawnKindDef[defName = "Pig"]/lifeStages</xpath>
+	  <value>
+	   <lifeStages>
+		  <li>
+			<label>piglet</label>
+			<bodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Pig/Pig</texPath>
+			  <drawSize>0.6</drawSize>
+			  <color>(211,190,174)</color>
+			  <shaderType>CutoutSkin</shaderType>
+			  <shadowData>
+				<volume>(0.25, 0.25, 0.25)</volume>
+				<offset>(0,0,-0.2)</offset>
+			  </shadowData>
+			</bodyGraphicData>
+			<dessicatedBodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
+			  <drawSize>1.5</drawSize>
+			</dessicatedBodyGraphicData>
+		  </li>
+		  <li>
+			<bodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Pig/Pig</texPath>
+			  <drawSize>1.15</drawSize>
+			  <shaderType>CutoutSkin</shaderType>
+			  <shadowData>
+				<volume>(0.375, 0.375, 0.375)</volume>
+				<offset>(0,0,0)</offset>
+			  </shadowData>
+			</bodyGraphicData>
+			<femaleGraphicData>
+			  <texPath>Things/Pawn/Animal/Pig/Pig</texPath>
+			  <drawSize>1.1</drawSize>
+			  <shaderType>CutoutSkin</shaderType>
+			  <shadowData>
+				<volume>(0.375, 0.375, 0.375)</volume>
+				<offset>(0,0,0)</offset>
+			  </shadowData>
+			</femaleGraphicData>
+			<dessicatedBodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
+			  <drawSize>1.7</drawSize>
+			</dessicatedBodyGraphicData>
+		  </li>
+		  <li>
+			<bodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Pig/Pig</texPath>
+			  <drawSize>1.42</drawSize>
+			  <color>(211,190,174)</color>
+			  <shaderType>CutoutSkin</shaderType>
+			  <shadowData>
+				<volume>(0.5, 0.5, 0.5)</volume>
+				<offset>(0,0,-0.3)</offset>
+			  </shadowData>
+			</bodyGraphicData>
+			<femaleGraphicData>
+			  <texPath>Things/Pawn/Animal/Pig/Pig</texPath>
+			  <drawSize>1.30</drawSize>
+			  <shaderType>CutoutSkin</shaderType>
+			  <shadowData>
+				<volume>(0.5, 0.5, 0.4)</volume>
+				<offset>(0,0,-0.05)</offset>
+			  </shadowData>
+			</femaleGraphicData>
+			<dessicatedBodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
+			  <drawSize>2</drawSize>
+			</dessicatedBodyGraphicData>
+		  </li>
+		</lifeStages>
+	  </value>
+	</Operation>
+<!-- (211,190,174) -->
+
+	<!--=====================  Alpaca ========================-->
+
+	<Operation Class="PatchOperationAdd">
+	  <xpath>*/ThingDef[defName = "Alpaca"]</xpath>
+	  <value>
+		<thingClass>AnimalVariations.AnimalMultiSkins</thingClass>
+	  </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	  <xpath>*/PawnKindDef[defName = "Alpaca"]/lifeStages</xpath>
+	  <value>
+    <lifeStages>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Alpaca/Alpaca</texPath>
+          <drawSize>1.3</drawSize>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
+          <drawSize>1.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Alpaca/Alpaca</texPath>
+          <drawSize>1.9</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
+          <drawSize>2.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Alpaca/Alpaca</texPath>
+          <drawSize>2.2</drawSize>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedMedium</texPath>
+          <drawSize>3</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+	  </value>
+	</Operation>
+<!-- (180,148,109) -->
+
+</Patch>

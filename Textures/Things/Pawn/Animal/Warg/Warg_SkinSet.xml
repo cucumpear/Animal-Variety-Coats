@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+  <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(123,104,89)</color>
+        <commonality>0.4</commonality>
+        <texName>Warg</texName>
+      </skin>
+      <skin>
+        <color>(161,118,85)</color>
+        <commonality>0.2</commonality>
+        <texName>Warg</texName>
+      </skin>
+      <skin>
+        <color>(110,83,63)</color>
+        <commonality>0.2</commonality>
+        <texName>Warg</texName>
+      </skin>
+      <skin>
+        <color>(93,83,74)</color>
+        <commonality>0.2</commonality>
+        <texName>Warg</texName>
+      </skin>      
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

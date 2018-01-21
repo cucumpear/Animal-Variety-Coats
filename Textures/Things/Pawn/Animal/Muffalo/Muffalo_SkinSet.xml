@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+  <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <commonality>0.4</commonality>
+        <texName>Muffalo</texName>
+      </skin>
+      <skin>
+        <color>(201,206,209)</color>
+        <commonality>0.2</commonality>
+        <texName>Muffalo</texName>
+      </skin>
+      <skin>
+        <color>(165,170,173)</color>
+        <commonality>0.2</commonality>
+        <texName>Muffalo</texName>
+      </skin>
+      <skin>
+        <color>(120,125,128)</color>
+        <commonality>0.2</commonality>
+        <texName>Muffalo</texName>
+      </skin>      
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>true</useWinterCoat>
+      <texName>Muffalo</texName>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+   <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <commonality>0.4</commonality>
+        <texName>Dromedary</texName>
+      </skin>
+      <skin>
+        <color>(189,159,125)</color>
+        <commonality>0.2</commonality>
+        <texName>Dromedary</texName>
+      </skin>
+      <skin>
+        <color>(168,150,130)</color>
+        <commonality>0.2</commonality>
+        <texName>Dromedary</texName>
+      </skin>
+      <skin>
+        <color>(222,200,175)</color>
+        <commonality>0.2</commonality>
+        <texName>Dromedary</texName>
+      </skin>      
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

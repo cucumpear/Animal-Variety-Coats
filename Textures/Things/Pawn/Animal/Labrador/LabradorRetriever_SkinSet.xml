@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+
+  <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(220,198,160)</color>
+        <commonality>0.4</commonality>
+        <texName>Labrador</texName>
+      </skin>
+      <skin>
+        <color>(40,37,33)</color>
+        <commonality>0.3</commonality>
+        <texName>Labrador</texName>
+      </skin>
+      <skin>
+        <color>(79,58,40)</color>
+        <commonality>0.2</commonality>
+        <texName>Labrador</texName>
+      </skin>   
+      <skin>
+        <color>(158,120,87)</color>
+        <commonality>0.1</commonality>
+        <texName>Labrador</texName>
+      </skin>  	  
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

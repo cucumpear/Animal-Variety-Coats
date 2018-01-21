@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+  <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(109,84,49)</color>
+        <commonality>0.4</commonality>
+        <texName>Capybara</texName>
+      </skin>
+      <skin>
+        <color>(128,82,20)</color>
+        <commonality>0.2</commonality>
+        <texName>Capybara</texName>
+      </skin>
+      <skin>
+        <color>(158,120,66)</color>
+        <commonality>0.2</commonality>
+        <texName>Capybara</texName>
+      </skin>
+      <skin>
+        <color>(94,64,23)</color>
+        <commonality>0.2</commonality>
+        <texName>Capybara</texName>
+      </skin>      
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

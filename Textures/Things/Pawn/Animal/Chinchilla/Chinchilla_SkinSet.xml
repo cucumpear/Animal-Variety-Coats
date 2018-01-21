@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+  <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(178,170,158)</color>
+        <commonality>0.4</commonality>
+        <texName>Chinchilla</texName>
+      </skin>
+      <skin>
+        <color>(227,218,200)</color>
+        <commonality>0.2</commonality>
+        <texName>Chinchilla</texName>
+      </skin>
+      <skin>
+        <color>(148,144,136)</color>
+        <commonality>0.2</commonality>
+        <texName>Chinchilla</texName>
+      </skin>
+      <skin>
+        <color>(79,78,75)</color>
+        <commonality>0.1</commonality>
+        <texName>Chinchilla</texName>
+      </skin>   
+      <skin>
+        <color>(237,234,228)</color>
+        <commonality>0.1</commonality>
+        <texName>Chinchilla</texName>
+      </skin>  	  
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>
