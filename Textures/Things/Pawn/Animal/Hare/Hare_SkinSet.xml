@@ -6,29 +6,31 @@
     <appliesToAll>true</appliesToAll>
     <variants>
       <skin>
-        <color>(130,127,106)</color>
+        <color>(58,50,40)</color>
         <commonality>1</commonality>
         <texName>HareW</texName>
       </skin>
       <skin>
-        <color>(145,124,100)</color>
+        <color>(86,70,45)</color>
         <commonality>0.5</commonality>
         <texName>HareW</texName>
       </skin>
       <skin>
-        <color>(120,109,96)</color>
+        <color>(112,87,58)</color>
         <commonality>0.5</commonality>
         <texName>HareW</texName>
       </skin>
       <skin>
-        <color>(133,116,97)</color>
+        <color>(135,111,83)</color>
         <commonality>0.5</commonality>
         <texName>HareW</texName>
       </skin>      
     </variants>  
 	
     <winterCoat>
-      <useWinterCoat>false</useWinterCoat>
+      <useWinterCoat>true</useWinterCoat>
+      <texName>HareW</texName>
+      <color>(135,111,83)</color>
     </winterCoat>
   </lifeStage>
   

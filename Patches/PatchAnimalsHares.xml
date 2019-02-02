@@ -19,7 +19,7 @@
           <drawSize>1</drawSize>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
-          <texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedSmall</texPath>
+			  <texPath>Things/Pawn/Animal/Dessicated/Dessicated_Hare</texPath>
           <drawSize>1</drawSize>
         </dessicatedBodyGraphicData>
       </li>
@@ -29,7 +29,7 @@
           <drawSize>1.25</drawSize>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
-          <texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedSmall</texPath>
+			  <texPath>Things/Pawn/Animal/Dessicated/Dessicated_Hare</texPath>
           <drawSize>1.25</drawSize>
         </dessicatedBodyGraphicData>
       </li>
@@ -43,7 +43,7 @@
           </shadowData>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
-          <texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedSmall</texPath>
+			  <texPath>Things/Pawn/Animal/Dessicated/Dessicated_Hare</texPath>
           <drawSize>1.15</drawSize>
         </dessicatedBodyGraphicData>
       </li>
