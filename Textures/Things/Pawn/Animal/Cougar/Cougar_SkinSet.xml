@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+  <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(182,130,77)</color>
+        <commonality>1</commonality>
+        <texName>CougarW</texName>
+      </skin>
+      <skin>
+        <color>(109,90,71)</color>
+        <commonality>0.5</commonality>
+        <texName>CougarW</texName>
+      </skin>
+      <skin>
+        <color>(161,120,75)</color>
+        <commonality>0.5</commonality>
+        <texName>CougarW</texName>
+      </skin>
+      <skin>
+        <color>(167,149,122)</color>
+        <commonality>0.5</commonality>
+        <texName>CougarW</texName>
+      </skin>   
+      <skin>
+        <color>(197,193,186)</color>
+        <commonality>0.2</commonality>
+        <texName>CougarW</texName>
+      </skin> 	  
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

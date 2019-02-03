@@ -34,7 +34,68 @@
         <color>(222,212,200)</color>
         <commonality>0.3</commonality>
         <texName>AlpacaW</texName>
-      </skin>           
+      </skin>
+      <skin>
+        <color>(206,175,121)</color>
+        <commonality>0.5</commonality>
+        <texName>AlpacaW</texName>
+      </skin>
+      <skin>
+        <color>(251,242,209)</color>
+        <commonality>0.5</commonality>
+        <texName>AlpacaW</texName>
+      </skin>
+      <skin>
+        <color>(255,253,223)</color>
+        <commonality>0.3</commonality>
+        <texName>AlpacaW</texName>
+      </skin>
+      <skin>
+        <color>(148,100,51)</color>
+        <commonality>0.5</commonality>
+        <texName>AlpacaW</texName>
+      </skin>     
+      <skin>
+        <color>(130,83,39)</color>
+        <commonality>0.5</commonality>
+        <texName>AlpacaW</texName>
+      </skin>
+	  <skin>
+        <color>(97,50,24)</color>
+        <commonality>0.5</commonality>
+        <texName>AlpacaW</texName>
+      </skin>
+      <skin>
+        <color>(181,169,147)</color>
+        <commonality>0.3</commonality>
+        <texName>AlpacaW</texName>
+      </skin>
+        	<skin>
+        <color>(105,90,83)</color>
+        <commonality>0.3</commonality>
+        <texName>AlpacaW</texName>
+      </skin>
+	  <skin>
+        <color>(169,157,135)</color>
+        <commonality>0.5</commonality>
+        <texName>AlpacaW</texName>
+      </skin>
+      <skin>
+        <color>(117,86,68)</color>
+        <commonality>0.3</commonality>
+        <texName>AlpacaW</texName>
+      </skin>
+          <skin>
+        <color>(133,83,46)</color>
+        <commonality>0.3</commonality>
+        <texName>AlpacaW</texName>
+      </skin> 	  
+      <skin>
+        <color>(51,51,51)</color>
+        <commonality>0.3</commonality>
+        <texName>AlpacaW</texName>
+      </skin>
+	  
     </variants>  
 	
     <winterCoat>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+  <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <commonality>1</commonality>
+        <texName>Husky</texName>
+      </skin>
+      <skin>
+        <color>(42,42,42)</color>
+        <commonality>0.5</commonality>
+        <texName>HuskyW</texName>
+		<useComplexShader>true</useComplexShader>
+      </skin>
+      <skin>
+        <color>(90,80,70)</color>
+        <commonality>0.5</commonality>
+        <texName>HuskyW</texName>
+		<useComplexShader>true</useComplexShader>
+      </skin>
+      <skin>
+        <color>(189,175,148)</color>
+        <commonality>0.5</commonality>
+        <texName>HuskyW</texName>
+		<useComplexShader>true</useComplexShader>
+      </skin>   
+      <skin>
+        <color>(99,48,5)</color>
+        <commonality>0.5</commonality>
+        <texName>HuskyW</texName>
+		<useComplexShader>true</useComplexShader>
+      </skin> 	  
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

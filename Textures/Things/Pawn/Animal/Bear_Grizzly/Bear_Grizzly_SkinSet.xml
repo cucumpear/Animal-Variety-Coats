@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+
+    <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <commonality>1</commonality>
+        <texName>Bear_Grizzly</texName>
+      </skin>
+      <skin>
+        <commonality>0.5</commonality>
+        <texName>Bear_GrizzlyA</texName>
+      </skin>
+      <skin>
+        <commonality>0.5</commonality>
+        <texName>Bear_GrizzlyB</texName>
+      </skin>
+      <skin>
+        <commonality>0.5</commonality>
+        <texName>Bear_GrizzlyC</texName>
+      </skin>   
+      <skin>
+        <commonality>0.2</commonality>
+        <texName>Bear_GrizzlyD</texName>
+      </skin> 	  
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

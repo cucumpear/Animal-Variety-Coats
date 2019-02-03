@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+  <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <commonality>1</commonality>
+        <texName>Wolf_Timber</texName>
+      </skin>
+	  <skin>
+        <commonality>0.5</commonality>
+        <texName>Wolf_TimberA</texName>
+      </skin>
+      <skin>
+        <commonality>0.5</commonality>
+        <texName>Wolf_TimberB</texName>
+      </skin>
+      <skin>
+        <commonality>0.5</commonality>
+        <texName>Wolf_TimberC</texName>
+      </skin>   
+      <skin>
+        <commonality>0.5</commonality>
+        <texName>Wolf_TimberD</texName>
+      </skin>
+	   <skin>
+        <commonality>0.5</commonality>
+        <texName>Wolf_TimberE</texName>
+      </skin> 
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>
