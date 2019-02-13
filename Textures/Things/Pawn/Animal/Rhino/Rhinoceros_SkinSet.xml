@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+   <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(165,165,165)</color>
+        <commonality>1</commonality>
+        <texName>RhinoW</texName>
+      </skin>
+	  <skin>
+        <color>(146,146,146)</color>
+        <commonality>1</commonality>
+        <texName>RhinoW</texName>
+      </skin>
+      <skin>
+        <color>(117,117,117)</color>
+        <commonality>0.5</commonality>
+        <texName>RhinoW</texName>
+      </skin>
+          <skin>
+        <color>(63,63,63)</color>
+        <commonality>0.3</commonality>
+        <texName>RhinoW</texName>
+      </skin> 	  
+      <skin>
+        <color>(255,255,255)</color>
+        <commonality>0.05</commonality>
+        <texName>RhinoW</texName>
+      </skin>
+    </variants>  
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

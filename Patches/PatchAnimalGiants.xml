@@ -57,4 +57,62 @@
 	  </value>
 	</Operation>
 	
+<!-- ========================== Rhino ================================= -->
+
+  <Operation Class="PatchOperationAdd">
+	  <xpath>*/ThingDef[defName = "Rhinoceros"]</xpath>
+	  <value>
+		<thingClass>AnimalVariations.AnimalMultiSkins</thingClass>
+	  </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	  <xpath>*/PawnKindDef[defName = "Rhinoceros"]/lifeStages</xpath>
+	  <value>
+    <lifeStages>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Rhino/Rhino</texPath>
+          <drawSize>1.5</drawSize>
+          <shadowData>
+            <volume>(0.475, 0.2, 0.3)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Dessicated/Dessicated_Rhino</texPath>
+          <drawSize>1.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Rhino/Rhino</texPath>
+          <drawSize>2.25</drawSize>
+          <shadowData>
+            <volume>(0.72, 0.3, 0.45)</volume>
+            <offset>(0,0,-0.25)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Dessicated/Dessicated_Rhino</texPath>
+          <drawSize>2.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Rhino/Rhino</texPath>
+          <drawSize>3</drawSize>
+          <shadowData>
+            <volume>(0.95, 0.4, 0.6)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Dessicated/Dessicated_Rhino</texPath>
+          <drawSize>3</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+	  </value>
+	</Operation>
+	
 </Patch>

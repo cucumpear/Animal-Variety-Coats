@@ -10,11 +10,21 @@
         <texName>Megasloth</texName>
       </skin>
       <skin>
-        <commonality>0.5</commonality>
+        <color>(163,138,105)</color>
+        <commonality>1</commonality>
+        <texName>Megasloth</texName>
+      </skin>
+      <skin>
+        <color>(126,109,87)</color>
+        <commonality>1</commonality>
+        <texName>Megasloth</texName>
+      </skin>
+      <skin>
+        <commonality>0.7</commonality>
         <texName>MegaslothA</texName>
       </skin>
       <skin>
-        <commonality>0.5</commonality>
+        <commonality>0.4</commonality>
         <texName>MegaslothB</texName>
       </skin>
       <skin>
@@ -26,11 +36,11 @@
         <texName>MegaslothD</texName>
       </skin>     
       <skin>
-        <commonality>0.5</commonality>
+        <commonality>0.25</commonality>
         <texName>MegaslothE</texName>
       </skin>
 	  <skin>
-        <commonality>0.5</commonality>
+        <commonality>0.2</commonality>
         <texName>MegaslothF</texName>
       </skin>
     </variants>  
