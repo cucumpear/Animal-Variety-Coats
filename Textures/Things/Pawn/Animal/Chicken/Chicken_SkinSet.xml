@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  	<!-- baby -->
+  <lifeStage>
+    <appliesToAll>false</appliesToAll>
+		<variants>
+		  <skin>
+			<color>(241,236,77)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>
+		  <skin>
+			<color>(248,243,101)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>
+		  <skin>
+			<color>(235,231,103)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>      
+		</variants>
+
+		<variantsFemale>
+		  <skin>
+			<color>(241,236,77)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>
+		  <skin>
+			<color>(248,243,101)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>
+		  <skin>
+			<color>(235,231,103)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>     
+		</variantsFemale>  	
+  </lifeStage>
+  	<!-- juvenile -->
+  <lifeStage>
+      <appliesToAll>false</appliesToAll>
+		<variants>
+		  <skin>
+			<color>(249,248,229)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>
+		  <skin>
+			<color>(145,131,97)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>
+		  <skin>
+			<color>(95,76,63)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>      
+		</variants>
+
+		<variantsFemale>
+		  <skin>
+			<color>(249,248,229)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>
+		  <skin>
+			<color>(145,131,97)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>
+		  <skin>
+			<color>(95,76,63)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>        
+		</variantsFemale>  
+  </lifeStage>
+  	<!-- adult -->
+  <lifeStage>
+      <appliesToAll>false</appliesToAll>
+		<variants>
+		  <skin>
+			<color>(249,248,229)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>
+		  <skin>
+			<color>(145,131,97)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>
+		  <skin>
+			<color>(95,76,63)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>      
+		</variants>
+
+		<variantsFemale>
+		  <skin>
+			<color>(249,248,229)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>
+		  <skin>
+			<color>(145,131,97)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>
+		  <skin>
+			<color>(95,76,63)</color>
+			<commonality>20</commonality>
+			<texName>Chicken</texName>
+		  </skin>    
+		</variantsFemale>  
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>
