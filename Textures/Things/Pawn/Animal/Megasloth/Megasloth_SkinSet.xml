@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+   <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <commonality>1</commonality>
+        <texName>Megasloth</texName>
+      </skin>
+      <skin>
+        <commonality>0.5</commonality>
+        <texName>MegaslothA</texName>
+      </skin>
+      <skin>
+        <commonality>0.5</commonality>
+        <texName>MegaslothB</texName>
+      </skin>
+      <skin>
+        <commonality>0.5</commonality>
+        <texName>MegaslothC</texName>
+      </skin>
+      <skin>
+        <commonality>0.5</commonality>
+        <texName>MegaslothD</texName>
+      </skin>     
+      <skin>
+        <commonality>0.5</commonality>
+        <texName>MegaslothE</texName>
+      </skin>
+	  <skin>
+        <commonality>0.5</commonality>
+        <texName>MegaslothF</texName>
+      </skin>
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

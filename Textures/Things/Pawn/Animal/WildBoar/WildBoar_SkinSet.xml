@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+   <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <commonality>1</commonality>
+        <texName>WildBoar</texName>
+      </skin>
+      <skin>
+        <commonality>1</commonality>
+        <texName>WildBoarA</texName>
+      </skin>
+      <skin>
+        <commonality>1</commonality>
+        <texName>WildBoarB</texName>
+      </skin>
+      <skin>
+        <commonality>1</commonality>
+        <texName>WildBoarC</texName>
+      </skin>
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>
