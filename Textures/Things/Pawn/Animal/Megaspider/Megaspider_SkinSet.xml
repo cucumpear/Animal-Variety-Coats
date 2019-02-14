@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+   <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(154,125,94)</color>
+        <commonality>1</commonality>
+        <texName>MegaspiderW</texName>
+      </skin>
+      <skin>
+        <color>(122,103,83)</color>
+        <commonality>0.8</commonality>
+        <texName>MegaspiderW</texName>
+      </skin>
+      <skin>
+        <color>(145,128,110)</color>
+        <commonality>0.8</commonality>
+        <texName>MegaspiderW</texName>
+      </skin>
+      <skin>
+        <color>(122,104,84)</color>
+        <commonality>0.8</commonality>
+        <texName>MegaspiderW</texName>
+      </skin>
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

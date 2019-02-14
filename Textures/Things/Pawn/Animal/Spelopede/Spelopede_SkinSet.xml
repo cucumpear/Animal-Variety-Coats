@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+   <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(156,148,125)</color>
+        <commonality>1</commonality>
+        <texName>SpelopedeW</texName>
+      </skin>
+      <skin>
+        <color>(137,128,103)</color>
+        <commonality>0.8</commonality>
+        <texName>SpelopedeW</texName>
+      </skin>
+      <skin>
+        <color>(91,83,61)</color>
+        <commonality>0.5</commonality>
+        <texName>SpelopedeW</texName>
+      </skin>
+      <skin>
+        <color>(114,108,91)</color>
+        <commonality>0.5</commonality>
+        <texName>SpelopedeW</texName>
+      </skin>
+      <skin>
+        <color>(66,61,48)</color>
+        <commonality>0.3</commonality>
+        <texName>SpelopedeW</texName>
+      </skin>      
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

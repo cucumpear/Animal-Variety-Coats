@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+   <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(212,231,247)</color>
+        <commonality>0.8</commonality>
+        <texName>Thrumbo</texName>
+      </skin>
+      <skin>
+        <color>(212,221,247)</color>
+        <commonality>0.8</commonality>
+        <texName>Thrumbo</texName>
+      </skin>
+      <skin>
+        <color>(220,247,243)</color>
+        <commonality>0.8</commonality>
+        <texName>Thrumbo</texName>
+      </skin>
+      <skin>
+        <color>(224,217,252)</color>
+        <commonality>0.8</commonality>
+        <texName>Thrumbo</texName>
+      </skin>
+      <skin>
+        <color>(225,206,234)</color>
+        <commonality>0.8</commonality>
+        <texName>Thrumbo</texName>
+      </skin>
+      <skin>
+        <color>(251,233,252)</color>
+        <commonality>0.8</commonality>
+        <texName>Thrumbo</texName>
+      </skin>
+      <skin>
+        <color>(235,250,250)</color>
+        <commonality>0.8</commonality>
+        <texName>Thrumbo</texName>
+      </skin>
+      <skin>
+        <color>(242,235,250)</color>
+        <commonality>0.8</commonality>
+        <texName>Thrumbo</texName>
+      </skin>
+      <skin>
+        <color>(187,223,241)</color>
+        <commonality>0.05</commonality>
+        <texName>Thrumbo</texName>
+      </skin>
+      <skin>
+        <color>(130,211,238)</color>
+        <commonality>0.05</commonality>
+        <texName>Thrumbo</texName>
+      </skin>
+      <skin>
+        <color>(150,207,226)</color>
+        <commonality>0.05</commonality>
+        <texName>Thrumbo</texName>
+      </skin>
+      <skin>
+        <color>(146,199,232)</color>
+        <commonality>0.05</commonality>
+        <texName>Thrumbo</texName>
+      </skin>
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

@@ -200,4 +200,54 @@
 	</Operation>
 <!-- (110,95,82) -->
 
+	<!--=====================  Boomrat ========================-->
+
+	<Operation Class="PatchOperationAdd">
+	  <xpath>*/ThingDef[defName = "Boomrat"]</xpath>
+	  <value>
+		<thingClass>AnimalVariations.AnimalMultiSkins</thingClass>
+	  </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	  <xpath>*/PawnKindDef[defName = "Boomrat"]/lifeStages</xpath>
+	  <value>
+		<lifeStages>
+		  <li>
+			<bodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Boomrat/Boomrat</texPath>
+			  <drawSize>0.80</drawSize>
+			</bodyGraphicData>
+			<dessicatedBodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Boomrat/Dessicated_Boomrat</texPath>
+			  <drawSize>0.8</drawSize>
+			</dessicatedBodyGraphicData>
+		  </li>
+		  <li>
+			<bodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Boomrat/Boomrat</texPath>
+			  <drawSize>1.0</drawSize>
+			</bodyGraphicData>
+			<dessicatedBodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Boomrat/Dessicated_Boomrat</texPath>
+			  <drawSize>1.0</drawSize>
+			</dessicatedBodyGraphicData>
+		  </li>
+		  <li>
+			<bodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Boomrat/Boomrat</texPath>
+			  <drawSize>1.15</drawSize>
+			  <shadowData>
+				<volume>(0.25, 0.3, 0.25)</volume>
+				<offset>(0,0,0)</offset>
+			  </shadowData>
+			</bodyGraphicData>
+			<dessicatedBodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Boomrat/Dessicated_Boomrat</texPath>
+			  <drawSize>1.15</drawSize>
+			</dessicatedBodyGraphicData>
+		  </li>
+		</lifeStages>
+	  </value>
+	</Operation>
+
 </Patch>
