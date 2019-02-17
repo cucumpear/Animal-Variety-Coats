@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<!--=====================  Boomalope ========================-->
+
+	<Operation Class="PatchOperationAdd">
+	  <xpath>*/ThingDef[defName = "Boomalope"]</xpath>
+	  <value>
+		<thingClass>AnimalVariations.AnimalMultiSkins</thingClass>
+	  </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	  <xpath>*/PawnKindDef[defName = "Boomalope"]/lifeStages</xpath>
+	  <value>
+    <lifeStages>
+      <li>
+        <label>boomalope calf</label>
+        <labelPlural>boomalope calves</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Boomalope/Boomalope</texPath>
+          <drawSize>1.0</drawSize>
+          <shadowData>
+            <volume>(0.4, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Boomalope/Dessicated_Boomalope</texPath>
+          <drawSize>1.0</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Boomalope/Boomalope</texPath>
+          <drawSize>1.5</drawSize>
+          <shadowData>
+            <volume>(0.6, 0.45, 0.45)</volume>
+            <offset>(0,0,-0.25)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Boomalope/Dessicated_Boomalope</texPath>
+          <drawSize>1.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Boomalope/Boomalope</texPath>
+          <drawSize>2.0</drawSize>
+          <shadowData>
+            <volume>(0.8, 0.6, 0.6)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Boomalope/Dessicated_Boomalope</texPath>
+          <drawSize>2.0</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+	  </value>
+	</Operation>
+
+
+</Patch>

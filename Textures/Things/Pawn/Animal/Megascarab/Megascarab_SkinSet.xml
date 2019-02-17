@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+   <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(114,107,84)</color>
+        <commonality>1</commonality>
+        <texName>MegascarabW</texName>
+      </skin>
+      <skin>
+        <color>(112,108,96)</color>
+        <commonality>0.8</commonality>
+        <texName>MegascarabW</texName>
+      </skin>
+      <skin>
+        <color>(94,88,69)</color>
+        <commonality>0.8</commonality>
+        <texName>MegascarabW</texName>
+      </skin>
+      <skin>
+        <color>(112,114,95)</color>
+        <commonality>0.5</commonality>
+        <texName>MegascarabW</texName>
+      </skin>
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

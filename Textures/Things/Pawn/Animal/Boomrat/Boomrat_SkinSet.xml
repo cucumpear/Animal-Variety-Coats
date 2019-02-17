@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+   <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(176,150,106)</color>
+        <commonality>1</commonality>
+        <texName>BoomratW</texName>
+        <useComplexShader>true</useComplexShader>
+      </skin>
+      <skin>
+        <color>(209,174,115)</color>
+        <commonality>0.8</commonality>
+        <texName>BoomratW</texName>
+        <useComplexShader>true</useComplexShader>
+      </skin>
+      <skin>
+        <color>(150,124,81)</color>
+        <commonality>0.8</commonality>
+        <texName>BoomratW</texName>
+        <useComplexShader>true</useComplexShader>
+      </skin>
+      <skin>
+        <color>(209,177,92)</color>
+        <commonality>0.8</commonality>
+        <texName>BoomratW</texName>
+        <useComplexShader>true</useComplexShader>
+      </skin>
+      <skin>
+        <color>(137,118,66)</color>
+        <commonality>0.5</commonality>
+        <texName>BoomratW</texName>
+        <useComplexShader>true</useComplexShader>
+      </skin>     
+      <skin>
+        <color>(81,70,41)</color>
+        <commonality>0.1</commonality>
+        <texName>BoomratW</texName>
+        <useComplexShader>true</useComplexShader>
+      </skin>
+      <skin>
+        <color>(160,146,107)</color>
+        <commonality>0.8</commonality>
+        <texName>BoomratW</texName>
+        <useComplexShader>true</useComplexShader>
+      </skin>
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

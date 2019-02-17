@@ -115,4 +115,68 @@
 	  </value>
 	</Operation>
 	
+<!-- ========================== Thrumbo ================================= -->
+
+  <Operation Class="PatchOperationAdd">
+	  <xpath>*/ThingDef[defName = "Thrumbo"]</xpath>
+	  <value>
+		<thingClass>AnimalVariations.AnimalMultiSkins</thingClass>
+	  </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	  <xpath>*/PawnKindDef[defName = "Thrumbo"]/lifeStages</xpath>
+	  <value>
+		<lifeStages>
+		  <li>
+			<label>thrumbo calf</label>
+			<labelPlural>thrumbo calves</labelPlural>
+			<bodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Thrumbo/Thrumbo</texPath>
+			  <drawSize>2.5</drawSize>
+			  <shadowData>
+				<volume>(0.4, 0.3, 0.3)</volume>
+				<offset>(0,0,-0.2)</offset>
+			  </shadowData>
+			</bodyGraphicData>
+			<dessicatedBodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Thrumbo/Dessicated_Thrumbo</texPath>
+			  <drawSize>2.5</drawSize>
+			</dessicatedBodyGraphicData>
+		  </li>
+		  <li>
+			<bodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Thrumbo/Thrumbo</texPath>
+			  <drawSize>4.0</drawSize>
+			  <shadowData>
+				<volume>(0.7, 0.6, 0.4)</volume>
+				<offset>(0,0,-0.25)</offset>
+			  </shadowData>
+			</bodyGraphicData>
+			<dessicatedBodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Thrumbo/Dessicated_Thrumbo</texPath>
+			  <drawSize>4.0</drawSize>
+			</dessicatedBodyGraphicData>
+		  </li>
+		  <li>
+			<bodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Thrumbo/Thrumbo</texPath>
+			  <drawSize>4.8</drawSize>
+			  <shadowData>
+				<volume>(1, 0.8, 0.5)</volume>
+				<offset>(0,0,-0.5)</offset>
+			  </shadowData>
+			</bodyGraphicData>
+			<dessicatedBodyGraphicData>
+			  <texPath>Things/Pawn/Animal/Thrumbo/Dessicated_Thrumbo</texPath>
+			  <drawSize>4.8</drawSize>
+			</dessicatedBodyGraphicData>
+			<butcherBodyPart>
+			  <bodyPartGroup>HornAttackTool</bodyPartGroup>
+			  <thing>ThrumboHorn</thing>
+			</butcherBodyPart>
+		  </li>
+		</lifeStages>
+	  </value>
+	</Operation>
+	
 </Patch>
