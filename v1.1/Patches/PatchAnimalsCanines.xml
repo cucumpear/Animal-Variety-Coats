@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!--=====================  Warg ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Warg"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Warg/WargW</texPath>
+					<color>(123,104,89)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Warg/WargW</texPath>
+					<color>(145,119,97)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Warg/WargW</texPath>
+					<color>(148,134,123)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Warg/WargW</texPath>
+					<color>(107,92,80)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Warg/WargW</texPath>
+					<color>(84,81,80)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Warg/WargW</texPath>
+					<color>(50,47,40)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+<!-- ========================== Wolves ================================= -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Wolf_Timber"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li><texPath>Things/Pawn/Animal/Wolf_Timber/Wolf_TimberA</texPath></li>
+					<li><texPath>Things/Pawn/Animal/Wolf_Timber/Wolf_TimberB</texPath></li>
+					<li><texPath>Things/Pawn/Animal/Wolf_Timber/Wolf_TimberC</texPath></li>
+					<li><texPath>Things/Pawn/Animal/Wolf_Timber/Wolf_TimberD</texPath></li>
+					<li><texPath>Things/Pawn/Animal/Wolf_Timber/Wolf_TimberE</texPath></li>
+					<li><texPath>Things/Pawn/Animal/Wolf_Timber/Wolf_TimberF</texPath></li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+	
+</Patch>

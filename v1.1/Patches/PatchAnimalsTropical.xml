@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<!--=====================  Boomalope ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Boomalope"]</xpath>
+			<value>
+				<alternateGraphicChance>0.3</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Boomalope/BoomalopeW</texPath>
+					<color>(176,150,106)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Boomalope/BoomalopeW</texPath>
+					<color>(209,174,115)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Boomalope/BoomalopeW</texPath>
+					<color>(150,124,81)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Boomalope/BoomalopeW</texPath>
+					<color>(209,177,92)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Boomalope/BoomalopeW</texPath>
+					<color>(137,118,66)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Boomalope/BoomalopeW</texPath>
+					<color>(81,70,41)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Boomalope/BoomalopeW</texPath>
+					<color>(160,146,107)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+</Patch>

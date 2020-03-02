@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!--=====================  Hare ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Hare"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Hare/HareW</texPath>
+					<color>(58,50,40)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Hare/HareW</texPath>
+					<color>(86,70,45)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Hare/HareW</texPath>
+					<color>(112,87,58)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Hare/HareW</texPath>
+					<color>(135,111,83)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Hare/HareB</texPath>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+	
+</Patch>

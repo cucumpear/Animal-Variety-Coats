@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!--=====================  Cougar ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Cougar"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Cougar/CougarW</texPath>
+					<color>(182,130,77)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Cougar/CougarW</texPath>
+					<color>(109,90,71)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Cougar/CougarW</texPath>
+					<color>(161,120,75)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Cougar/CougarW</texPath>
+					<color>(167,149,122)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Cougar/CougarW</texPath>
+					<color>(197,193,186)</color>
+					</li>
+					<li><texPath>Things/Pawn/Animal/Cougar/CougarA</texPath></li>
+					<li><texPath>Things/Pawn/Animal/Cougar/CougarB</texPath></li>
+					<li><texPath>Things/Pawn/Animal/Cougar/CougarF</texPath></li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+</Patch>

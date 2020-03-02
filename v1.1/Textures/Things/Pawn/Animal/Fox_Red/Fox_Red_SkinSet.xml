@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+  <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <commonality>1</commonality>
+        <texName>Fox_Red</texName>
+      </skin>
+	  <skin>
+        <commonality>1</commonality>
+        <texName>Fox_RedA</texName>
+      </skin>
+      <skin>
+        <commonality>1</commonality>
+        <texName>Fox_RedB</texName>
+      </skin>
+      <skin>
+        <commonality>1</commonality>
+        <texName>Fox_RedC</texName>
+      </skin>   
+      <skin>
+        <commonality>0.5</commonality>
+        <texName>Fox_RedD</texName>
+      </skin>
+	   <skin>
+        <commonality>0.2</commonality>
+        <texName>Fox_RedE</texName>
+      </skin> 
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

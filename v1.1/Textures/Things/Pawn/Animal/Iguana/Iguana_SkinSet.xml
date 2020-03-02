@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SkinSet>
+  
+   <lifeStage>
+    <appliesToAll>true</appliesToAll>
+    <variants>
+      <skin>
+        <color>(137, 147, 100)</color>
+        <commonality>1</commonality>
+        <texName>IguanaW</texName>
+      </skin>
+      <skin>
+        <color>(116,124,83)</color>
+        <commonality>0.8</commonality>
+        <texName>IguanaW</texName>
+      </skin>
+	  <skin>
+        <color>(71,99,56)</color>
+        <commonality>0.5</commonality>
+        <texName>IguanaW</texName>
+      </skin>
+      <skin>
+        <color>(93,122,78)</color>
+        <commonality>0.5</commonality>
+        <texName>IguanaW</texName>
+      </skin>
+      <skin>
+        <color>(181,181,97)</color>
+        <commonality>0.3</commonality>
+        <texName>IguanaW</texName>
+      </skin> 	  
+      <skin>
+        <color>(193,168,69)</color>
+        <commonality>0.3</commonality>
+        <texName>IguanaW</texName>
+      </skin>
+	  
+    </variants>  
+	
+    <winterCoat>
+      <useWinterCoat>false</useWinterCoat>
+    </winterCoat>
+  </lifeStage>
+  
+</SkinSet>

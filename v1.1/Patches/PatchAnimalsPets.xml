@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!--=====================  LabradorRetriever ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "LabradorRetriever"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Labrador/LabradorW</texPath>
+					<color>(220,198,160)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Labrador/LabradorW</texPath>
+					<color>(85,85,85)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Labrador/LabradorW</texPath>
+					<color>(150,117,59)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Labrador/LabradorW</texPath>
+					<color>(117,94,54)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+<!--=====================  Husky ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Husky"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Husky/HuskyW</texPath>
+					<color>(42,42,42)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Husky/HuskyW</texPath>
+					<color>(90,80,70)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Husky/HuskyW</texPath>
+					<color>(189,175,148)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Husky/HuskyW</texPath>
+					<color>(99,48,5)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+	<!--=====================  Cat ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Cat"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Cat/CatW</texPath>
+					<color>(189,171,159)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Cat/CatW</texPath>
+					<color>(219,152,94)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Cat/CatW</texPath>
+					<color>(40,40,40)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Cat/CatW</texPath>
+					<color>(170,170,170)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Cat/CatW</texPath>
+					<color>(138,97,62)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Cat/CatW</texPath>
+					<color>(209,185,132)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Cat/CatW</texPath>
+					<color>(164,168,186)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Cat/CatW</texPath>
+					<color>(237,214,194)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Cat/CatW</texPath>
+					<color>(250,250,250)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+</Patch>

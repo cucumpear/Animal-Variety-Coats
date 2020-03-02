@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!--=====================  Bears ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Bear_Grizzly"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Bear_Grizzly/Bear_Grizzly</texPath>
+					<color>(156,148,125)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Bear_Grizzly/Bear_GrizzlyA</texPath>
+					<color>(137,128,103)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Bear_Grizzly/Bear_GrizzlyB</texPath>
+					<color>(91,83,61)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Bear_Grizzly/Bear_GrizzlyC</texPath>
+					<color>(114,108,91)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Bear_Grizzly/Bear_GrizzlyD</texPath>
+					<color>(66,61,48)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+</Patch>

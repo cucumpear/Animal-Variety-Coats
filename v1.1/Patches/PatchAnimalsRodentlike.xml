@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!--=====================  Squirrel ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Squirrel"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Squirrel/SquirrelW</texPath>
+					<color>(161,95,38)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Squirrel/SquirrelW</texPath>
+					<color>(176,120,72)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Squirrel/SquirrelW</texPath>
+					<color>(143,95,53)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Squirrel/SquirrelW</texPath>
+					<color>(184,145,112)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+
+	<!--=====================  Capybara ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Capybara"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Capybara/CapybaraW</texPath>
+					<color>(109,84,49)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Capybara/CapybaraW</texPath>
+					<color>(128,104,71)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Capybara/CapybaraW</texPath>
+					<color>(140,102,49)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Capybara/CapybaraW</texPath>
+					<color>(166,125,68)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+	<!--=====================  Chinchilla ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Chinchilla"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Chinchilla/Chinchilla</texPath>
+					<color>(178,170,158)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Chinchilla/Chinchilla</texPath>
+					<color>(201,185,161)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Chinchilla/Chinchilla</texPath>
+					<color>(179,168,152)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Chinchilla/Chinchilla</texPath>
+					<color>(207,202,196)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Chinchilla/Chinchilla</texPath>
+					<color>(237,234,228)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+	<!--=====================  Rat ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Rat"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Rat/RatW</texPath>
+					<color>(110,95,82)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Rat/RatW</texPath>
+					<color>(156,151,146)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Rat/RatW</texPath>
+					<color>(84,78,73)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Rat/RatW</texPath>
+					<color>(181,170,161)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Rat/RatW</texPath>
+					<color>(250,250,250)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+	<!--=====================  Boomrat ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Boomrat"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Boomrat/BoomratW</texPath>
+					<color>(176,150,106)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Boomrat/BoomratW</texPath>
+					<color>(209,174,115)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Boomrat/BoomratW</texPath>
+					<color>(150,124,81)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Boomrat/BoomratW</texPath>
+					<color>(209,177,92)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Boomrat/BoomratW</texPath>
+					<color>(137,118,66)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Boomrat/BoomratW</texPath>
+					<color>(81,70,41)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Boomrat/BoomratW</texPath>
+					<color>(160,146,107)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+</Patch>

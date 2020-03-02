@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<!-- ========================== Spelopede ================================= -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Spelopede"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Spelopede/SpelopedeW</texPath>
+					<color>(156,148,125)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Spelopede/SpelopedeW</texPath>
+					<color>(137,128,103)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Spelopede/SpelopedeW</texPath>
+					<color>(91,83,61)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Spelopede/SpelopedeW</texPath>
+					<color>(114,108,91)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Spelopede/SpelopedeW</texPath>
+					<color>(66,61,48)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+<!-- ========================== Megascarab ================================= -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Megascarab"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Megascarab/MegascarabW</texPath>
+					<color>(114,107,84)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Megascarab/MegascarabW</texPath>
+					<color>(112,108,96)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Megascarab/MegascarabW</texPath>
+					<color>(94,88,69)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Megascarab/MegascarabW</texPath>
+					<color>(112,114,95)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+	
+<!-- ========================== Megaspider ================================= -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Megaspider"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Megaspider/MegaspiderW</texPath>
+					<color>(154,125,94)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Megaspider/MegaspiderW</texPath>
+					<color>(122,103,83)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Megaspider/MegaspiderW</texPath>
+					<color>(145,128,110)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Megaspider/MegaspiderW</texPath>
+					<color>(122,104,84)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+	
+</Patch>

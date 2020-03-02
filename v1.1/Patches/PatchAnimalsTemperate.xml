@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<!--=====================  Caribou ========================-->
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Caribou"]</xpath>
+			<value>
+				<alternateGraphicChance>0.3</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Caribou/CaribouA</texPath>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Caribou/CaribouB</texPath>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Caribou/CaribouC</texPath>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Caribou/CaribouD</texPath>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Caribou/CaribouE</texPath>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Caribou/CaribouF</texPath>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Caribou/CaribouG</texPath>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Caribou/CaribouH</texPath>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+	
+	<!--=====================  Boar ========================-->
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "WildBoar"]</xpath>
+			<value>
+				<alternateGraphicChance>0.5</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/WildBoar/WildBoarA</texPath>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/WildBoar/WildBoarB</texPath>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/WildBoar/WildBoarC</texPath>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+	
+</Patch>

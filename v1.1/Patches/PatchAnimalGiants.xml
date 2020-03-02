@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<!-- ========================== Megasloth ================================= -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Megasloth"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Megasloth/MegaslothA</texPath>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Megasloth/MegaslothB</texPath>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Megasloth/MegaslothC</texPath>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Megasloth/MegaslothD</texPath>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Megasloth/MegaslothE</texPath>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Megasloth/MegaslothF</texPath>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+	
+<!-- ========================== Rhino ================================= -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Rhinoceros"]</xpath>
+			<value>
+				<alternateGraphicChance>0.1</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Rhino/RhinoW</texPath>
+					<color>(165,165,165)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Rhino/RhinoW</texPath>
+					<color>(146,146,146)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Rhino/RhinoW</texPath>
+					<color>(117,117,117)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Rhino/RhinoW</texPath>
+					<color>(63,63,63)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Rhino/RhinoW</texPath>
+					<color>(66,61,48)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+	
+<!-- ========================== Thrumbo ================================= -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Thrumbo"]</xpath>
+			<value>
+				<alternateGraphicChance>0.2</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Thrumbo/Thrumbo</texPath>
+					<color>(212,231,247)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Thrumbo/Thrumbo</texPath>
+					<color>(212,221,247)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Thrumbo/Thrumbo</texPath>
+					<color>(220,247,243)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Thrumbo/Thrumbo</texPath>
+					<color>(224,217,252)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Thrumbo/Thrumbo</texPath>
+					<color>(225,206,234)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Thrumbo/Thrumbo</texPath>
+					<color>(251,233,252)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Thrumbo/Thrumbo</texPath>
+					<color>(235,250,250)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Thrumbo/Thrumbo</texPath>
+					<color>(242,235,250)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+	
+</Patch>

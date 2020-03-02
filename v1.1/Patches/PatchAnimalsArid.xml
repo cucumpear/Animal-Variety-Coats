@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!--=====================  Muffalo ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Muffalo"]</xpath>
+			<value>
+				<alternateGraphicChance>0.4</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Muffalo/MuffaloW</texPath>
+					<color>(199,209,204)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Muffalo/MuffaloW</texPath>
+					<color>(197,217,208)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Muffalo/MuffaloW</texPath>
+					<color>(179,189,184)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+	<!--=====================  Dromedary ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Dromedary"]</xpath>
+			<value>
+				<alternateGraphicChance>0.4</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Dromedary/Dromedary</texPath>
+					<color>(196,166,132)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Dromedary/Dromedary</texPath>
+					<color>(184,160,132)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Dromedary/Dromedary</texPath>
+					<color>(204,182,157)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+	
+	<!--=====================  Iguana ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Iguana"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Iguana/IguanaW</texPath>
+					<color>(137, 147, 100)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Iguana/IguanaW</texPath>
+					<color>(116,124,83)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Iguana/IguanaW</texPath>
+					<color>(71,99,56)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Iguana/IguanaW</texPath>
+					<color>(93,122,78)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Iguana/IguanaW</texPath>
+					<color>(181,181,97)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Iguana/IguanaW</texPath>
+					<color>(193,168,69)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+	
+</Patch>

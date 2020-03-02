@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<!--=====================  Pig ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Pig"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Pig/PigW</texPath>
+					<color>(211,190,174)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Pig/PigW</texPath>
+					<color>(173,158,146)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Pig/PigW</texPath>
+					<color>(204,192,184)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Pig/PigW</texPath>
+					<color>(82,72,65)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Pig/PigW</texPath>
+					<color>(109,53,35)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+	<!--=====================  Alpaca ========================-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[defName = "Alpaca"]</xpath>
+			<value>
+				<alternateGraphicChance>0.8</alternateGraphicChance>
+				<alternateGraphics>
+					<li>
+					<texPath>Things/Pawn/Animal/Alpaca/AlpacaW</texPath>
+					<color>(161,137,109)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Alpaca/AlpacaW</texPath>
+					<color>(173,134,87)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Alpaca/AlpacaW</texPath>
+					<color>(209,190,167)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Alpaca/AlpacaW</texPath>
+					<color>(222,212,200)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Alpaca/AlpacaW</texPath>
+					<color>(206,175,121)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Alpaca/AlpacaW</texPath>
+					<color>(251,242,209)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Alpaca/AlpacaW</texPath>
+					<color>(255,253,223)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Alpaca/AlpacaW</texPath>
+					<color>(148,100,51)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Alpaca/AlpacaW</texPath>
+					<color>(130,83,39)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Alpaca/AlpacaW</texPath>
+					<color>(97,50,24)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Alpaca/AlpacaW</texPath>
+					<color>(181,169,147)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Alpaca/AlpacaW</texPath>
+					<color>(105,90,83)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Alpaca/AlpacaW</texPath>
+					<color>(117,86,68)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Alpaca/AlpacaW</texPath>
+					<color>(133,83,46)</color>
+					</li>
+					<li>
+					<texPath>Things/Pawn/Animal/Alpaca/AlpacaW</texPath>
+					<color>(51,51,51)</color>
+					</li>
+				</alternateGraphics>
+			</value>
+	</Operation>
+
+</Patch>
